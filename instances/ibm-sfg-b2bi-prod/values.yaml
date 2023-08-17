@@ -60,7 +60,7 @@ ibm-sfg-prod:
     nistComplianceMode: "off"
     # Provide the DB attributes
     dbVendor: db2
-    dbHost: 172.30.232.203
+    dbHost: 172.30.87.79
     dbPort: 50000
     dbData: B2BIDB
     dbDrivers: db2jcc4.jar
